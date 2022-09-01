@@ -1,2 +1,2 @@
-# tiempo-react-app
+# tiempo-react
 App de clima por ciudades
