@@ -1,6 +1,25 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta App muestra el clima por ciudad buscada y devuelve
+
+### Temperatura 
+### Estado del tiempo
+### Sensacion Térmica
+### Humedad
+### Viento
+
+Quise lograr  una UI limpia y  Responsive , con  el uso de Bootstrap .
+
+Entiendo que deberia haber estadomas completa, pero prometo competarla con mas tiempo  y con la consigna.
+
+
+
+
+Use Librerias Axios para llamar a las API 
+
+
+### `npm i axios`
+
+
 
 ## Available Scripts
 
