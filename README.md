@@ -9,8 +9,6 @@ Esta App muestra el clima por ciudad buscada y devuelve
 
 Quise lograr  una UI limpia y  Responsive , con  el uso de Bootstrap .
 
-Entiendo que deberia haber estadomas completa, pero prometo competarla con mas tiempo  y con la consigna.
-
 
 
 
